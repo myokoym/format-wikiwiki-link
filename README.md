@@ -6,7 +6,7 @@ YouTube動画リンク取得ツール for https://wikiwiki.jp/
 
 ```
 git clone https://github.com/myokoym/format-wikiwiki-link.git
-cd ormat-wikiwiki-link
+cd format-wikiwiki-link
 go mod init format-json
 ```
 
